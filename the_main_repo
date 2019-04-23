@@ -1,0 +1,5 @@
+<body>
+<form>
+Enter First Number:
+<input type=“number” name=“number1" /><br><br>
+Enter Second Number:
