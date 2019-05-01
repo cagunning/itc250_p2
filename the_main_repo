@@ -16,3 +16,6 @@ Enter Second Number:
 for ($i=1; $i<=$number2; $i++)
 {
 $number1++;
+}
+echo “Sum of $number1 and $number2 is=“.$number2;
+?>
